@@ -1,0 +1,1 @@
+llama-index python-dotenv streamlit pypdf openai
